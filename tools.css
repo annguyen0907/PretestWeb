@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	margin:0 auto;
+}
+header {	
+	background-image:url(../picture/back.jpg);
+	height:auto;
+}
+header #logo {
+	float:left;
+	padding:10px;
+}
+header #navhead {
+	float:right;
+	padding:10px;
+	margin-right:25px;
+}
+#tl {
+	color:#F55255;
+}
+nav {
+	width:100%;
+	background-color:#DC3134;
+}
+nav ul {
+	display:inline-block;
+}
+nav ul li {		
+	width:auto;	
+	font-size:20.53px;
+	text-align:center;
+	list-style-type:none;
+}
+nav ul li a {
+	color:#F1E6E7;
+	text-decoration:none;
+}
+#tkweb,#host,#domain,#emailsv {
+	padding-top:15px;
+	width:25%;
+	float:left;
+	padding-right:5px;
+}
+section {
+	padding-top:15px;
+}
